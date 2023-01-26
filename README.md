@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Supertitan780
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m Ibaad
+- 🌱 I’m currently learning C and Python
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me on Discord = st780#7476
 
 <!---
